@@ -32,4 +32,4 @@ I developed comprehensive project in Excel, of Walmart sales dashboard using mul
 11. What are the top-performing products per category or state?
 
 ## Dashboard
-< a href="https://github.com/Yashchavan9709/Walmart-Sales-Dashboard/blob/main/Walmart_dashboard.png"> View Dashboard </a>
+<a href="https://github.com/Yashchavan9709/Walmart-Sales-Dashboard/blob/main/Walmart_dashboard.png">View Dashboard</a>
